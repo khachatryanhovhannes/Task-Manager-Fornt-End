@@ -1,0 +1,205 @@
+{
+  "NAVIGATION": {
+    "HOME": "Home",
+    "ABOUT": "About Us",
+    "CONTACT": "Contact Us",
+    "PRIVARY": "Privacy",
+    "USER_PAGE": "My page",
+    "USER_HOME": "Home",
+    "USER_TASKS": "Tasks",
+    "ADD_TASK": "Add Task",
+    "LOG_OUT": "Log out"
+  },
+  "MAIN": {
+    "MAIN_TEXT": "Manage all your daily tasks at once, ",
+    "MAIN_TEXT_ORANGE": "easily",
+    "SUB_TEXT": "Stay focused and motivated with visually appealing user interface and the reminders feature that helps you to focus on what's important here and now without missing anything.",
+    "SIGN_IN": "Sign In",
+    "SIGN_UP": "Sign Up"
+  },
+  "ABOUT_US": {
+    "TITLE": "About Us",
+    "TEXT_ONE": "Your Task Manager is more than just a productivity tool - it's a companion in your journey to achieve efficiency and success.",
+    "TEXT_TWO": " Our team is driven by a passion for simplifying the complexities of task management. We're committed to creating an application that makes organizing tasks seamless and stress-free.",
+    "TEXT_THREE": "At Your Task Manager, we value innovation, continuous improvement, and user feedback. We're constantly evolving to meet the dynamic needs of our diverse user base.",
+    "TEXT_FOUR": {
+      "PART_ONE": "We believe in fostering a community of productivity enthusiasts. Feel free to join us in this journey by ",
+      "LINK": "signing up ",
+      "PART_TWO": "for exclusive updates, tips, and offers."
+    },
+    "TEXT_FIVE": {
+      "PART_ONE": "Have questions or suggestions? We'd love to hear from you!",
+      "LINK": " Contact ",
+      "PART_TWO": "us today."
+    }
+  },
+  "CONTACT_US": {
+    "TITLE": "Contact Us",
+    "TEXT_ONE": "At Your Task Manager, we value open communication. Your thoughts and inquiries are vital to us.",
+    "TEXT_TWO": "To get in touch, you can email us at ",
+    "TEXT_THREE": "Additionally, for any business inquiries or collaboration opportunities, please reach out to our team at ",
+    "TEXT_FOUR": {
+      "PART_ONE": "Your questions, suggestions, and feedback are highly valued. We believe in the power of community collaboration to enhance our service. Join us on social media platforms like  ",
+      "PART_TWO": ", ",
+      "PART_THREE": ", and ",
+      "PART_FOUR": " for engaging discussions."
+    },
+    "TEXT_FIVE": {
+      "PART_ONE": "If you'd like to be updated with exclusive news, tips, and offers, consider signing up for our newsletter by visiting ",
+      "LINK": "Sign Up."
+    },
+    "TEXT_SIX": "We are committed to providing quick and helpful responses to your inquiries. Your input is invaluable in our mission to continually improve our services."
+  },
+  "PRIVACY_POLICY": {
+    "TITLE": "Privacy Policy",
+    "TEXT_ONE": "At Your Task Manager, we are committed to protecting your privacy and ensuring the security of your personal information.",
+    "TEXT_TWO": "This Privacy Policy outlines the types of personal information we collect, how we use and safeguard it, and your rights in relation to your data.        ",
+    "TEXT_THREE": "We collect and use your personal information solely for the purpose of providing and improving our services, ensuring the security of your data, and communicating with you about the service and any updates or news.",
+    "TEXT_FOUR": "We do not sell, trade, or transfer your personal information to third parties without your consent, except as required by law or for providing the service.        ",
+    "TEXT_FIVE": "By using our service, you agree to the collection and use of information in accordance with this policy.        ",
+    "TEXT_SIX": "For detailed information on the type of data collected, its usage, and your rights, please read our full Privacy Policy.        "
+  },
+  "LOGIN": {
+    "TITLE": "Sign in to your account",
+    "TEXT_ONE": {
+      "TEXT": "If you have not account go to ",
+      "LINK": "Sign Up"
+    },
+    "EMAIL": "Email address",
+    "PASSWORD": "Password",
+    "NEW_PASSWORD": "New Password",
+    "REMEMBER": "Remember me",
+    "SIGN_IN": "Sign In",
+    "CHANGE_PASSWORD": "Change Password",
+    "ERRORS": {
+      "EMAIL": {
+        "EMAIL_ERROR_ONE": "This field is required",
+        "EMAIL_ERROR_TWO": "Invalid email address"
+      },
+      "PASSWORD": {
+        "PASSWORD_ERROR_ONE": "This field is required",
+        "PASSWORD_ERROR_TWO": "Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character"
+      },
+      "NEW_PASSWORD": {
+        "PASSWORD_ERROR_ONE": "This field is required",
+        "PASSWORD_ERROR_TWO": "Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character"
+      }
+    }
+  },
+  "SIGN_UP": {
+    "TITLE": "Sign up",
+    "TEXT_ONE": {
+      "TEXT": "Already a user? ",
+      "LINK": " Login"
+    },
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "EMAIL": "Email address",
+    "PASSWORD": "Password",
+    "SIGN_UP": "Sign Up",
+    "CHANGE": "Change",
+    "ERRORS": {
+      "NAME": {
+        "NAME_ERROR_ONE": "This field is required",
+        "NAME_ERROR_TWO": "Name should be at least 3 characters",
+        "NAME_ERROR_THREE": "Name should not exceed 20 characters"
+      },
+      "EMAIL": {
+        "EMAIL_ERROR_ONE": "This field is required",
+        "EMAIL_ERROR_TWO": "Invalid email address"
+      },
+      "PASSWORD": {
+        "PASSWORD_ERROR_ONE": "This field is required",
+        "PASSWORD_ERROR_TWO": "Password must contain at least one lowercase letter, one uppercase letter, one digit, and one special character"
+      }
+    }
+  },
+  "FOOTER": {
+    "BOX_ONE": {
+      "TITLE": "Company Info",
+      "TEXT": "Explore our story and learn more about the mission and values that drive our task manager application.",
+      "READ_MORE": "Read More"
+    },
+    "BOX_TWO": {
+      "TITLE": "Useful Links",
+      "HOME": "Home",
+      "PRIVACY_POLICY": "Privary Policy",
+      "CONTACT_US": "Contact Us"
+    },
+    "BOX_THREE": {
+      "TITLE": "Connect with Us",
+      "TEXT": "Stay connected on social media for updates, tips, and community discussions."
+    },
+    "TEXT": " Task Manager. All rights reserved."
+  },
+  "TASK": {
+    "TITLE_ADD": "Add Task",
+    "TITLE_EDIT": "Edit Task",
+    "TASK_TITLE": "Title",
+    "TASK_DESCTIPTION": "Descripiton",
+    "SUBMIT": "Submit",
+    "REQUARED": "This field is required",
+    "TASK_DATE": "End date"
+  },
+
+  "TASKS": {
+    "READ_MORE": "Read more",
+    "ALL": "All",
+    "TO_DO": "To Do",
+    "IN_PROCESS": "In Process",
+    "DONE": "Done",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "SETTINGS": "Settings",
+    "NEXT": "Next",
+    "PREVIOUS": "Previous"
+  },
+  "SINGLE_TASK": {
+    "GO_BACK": "Back",
+    "NO_FOUND": "Task not found",
+    "EDIT": "Edit",
+    "DELETE": "Delete",
+    "GO_TO_ALL": "Go to all tasks",
+    "DUE_DATE": "Due Date",
+    "CREATED": "Created At",
+    "UPDATED": "Updated At",
+    "TO_DO": "To Do",
+    "IN_PROCESS": "In Process",
+    "DONE": "Done"
+  },
+  "TASKS_EVENT": {
+    "ADD_SUCCESS": "Task added!",
+    "ADD_LOADING": "Task is adding!",
+    "ADD_ERROR": "Task doesn't add!",
+    "EDIT_SUCCESS": "Task edited!",
+    "EDIT_LOADING": "Task is editing!",
+    "EDIT_ERROR": "Task doesn't edit!",
+    "DELETE_SUCCESS": "Task deleted!",
+    "DELETE_LOADING": "Task is deleting!",
+    "DELETE_ERROR": "Task doesn't delete!",
+    "STATUS_SUCCESS": "Status changed",
+    "STATUS_LOADING": "Status is changing",
+    "STATUS_ERROR": "Status doesn't change"
+  },
+  "USER": {
+    "EMAIL": "Email address",
+    "FIRST_NAME": "First Name",
+    "LAST_NAME": "Last Name",
+    "ROLE": "Role",
+    "CREATED": "Created At",
+    "UPDATED": "Updated At",
+    "SETTINGS": "Settings"
+  },
+  "GENERAL_ERRORS": {
+    "ERR_USER_EMAIL_EXISTS": "User email exists",
+    "ERR_USER_NAME_EXISTS": "User name exist",
+    "ERR_USER_EMAIL_OR_PASSWORD": "Invalid email or password",
+    "ERR_USER_NOT_EXISTS": "User does not exist",
+    "ERR_USER_EMAIL_IN_USE": "User email is already in use",
+    "ERR_INVALID_ACCESS_TOKEN": "Invalid access token",
+    "ERR_INVALID_REFRESH_TOKEN": "Invalid refresh token",
+    "ERR_TASK_NOT_EXISTS": "Task does not exist",
+    "ERR_EMPTY_UPDATED_BODY": "Empty updated body",
+    "VALIDATIONERROR": "Validation error"
+  }
+}
